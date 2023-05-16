@@ -1,0 +1,30 @@
+2023-05-15 22:05:90 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (7b556e9d9f3c43ebcc8f3220859c0a8b)] -> xpath: //a[@id='ui-id-5']]
+2023-05-15 22:05:280 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (7b556e9d9f3c43ebcc8f3220859c0a8b)] -> link text: Bottoms]
+2023-05-15 22:05:537 INFO  HomePage :97 - Clicking on pant link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Pants')]'
+2023-05-15 22:05:734 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (1c8628afb2b8e866b3d9892d1d468d88)] -> xpath: //a[@id='ui-id-5']]
+2023-05-15 22:05:932 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (1c8628afb2b8e866b3d9892d1d468d88)] -> link text: Bottoms]
+2023-05-15 22:05:127 INFO  HomePage :97 - Clicking on pant link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Pants')]'
+2023-05-15 22:05:539 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (ca613f941bc6ed838423992dea128505)] -> xpath: //a[@id='ui-id-5']]
+2023-05-15 22:05:777 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (ca613f941bc6ed838423992dea128505)] -> link text: Bottoms]
+2023-05-15 22:05:960 INFO  HomePage :97 - Clicking on pant link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Pants')]'
+2023-05-15 22:05:679 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (3f47d87a4b298b6d4eeab4c72bf5ef0c)] -> xpath: //a[@id='ui-id-5']]
+2023-05-15 22:05:859 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (3f47d87a4b298b6d4eeab4c72bf5ef0c)] -> link text: Bottoms]
+2023-05-15 22:05:48 INFO  HomePage :97 - Clicking on pant link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Pants')]'
+2023-05-15 22:05:878 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (3e1038d19bb127897567d5cab7f7d95e)] -> xpath: //a[@id='ui-id-5']]
+2023-05-15 22:05:78 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (3e1038d19bb127897567d5cab7f7d95e)] -> link text: Bottoms]
+2023-05-15 22:05:257 INFO  HomePage :97 - Clicking on pant link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Pants')]'
+2023-05-16 15:05:160 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (4db175dbebefd2d240337c562c8ec3cc)] -> xpath: //a[@id='ui-id-5']]
+2023-05-16 15:05:412 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (4db175dbebefd2d240337c562c8ec3cc)] -> link text: Bottoms]
+2023-05-16 15:05:593 INFO  HomePage :97 - Clicking on pant link [[ChromeDriver: chrome on WINDOWS (4db175dbebefd2d240337c562c8ec3cc)] -> xpath: //a[@id='ui-id-23']//span[contains(text(),'Pants')]]
+2023-05-16 15:05:186 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (bb005937723fdee9cbeff52bc6cb8ec5)] -> xpath: //a[@id='ui-id-5']]
+2023-05-16 15:05:523 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (bb005937723fdee9cbeff52bc6cb8ec5)] -> link text: Bottoms]
+2023-05-16 15:05:689 INFO  HomePage :97 - Clicking on pant link [[ChromeDriver: chrome on WINDOWS (bb005937723fdee9cbeff52bc6cb8ec5)] -> xpath: //a[@id='ui-id-23']//span[contains(text(),'Pants')]]
+2023-05-16 15:05:927 INFO  HomePage :85 - MouseHover on men Menu [[ChromeDriver: chrome on WINDOWS (1565954e9d076ab8a40bd3ab44fb53ca)] -> xpath: //a[@id='ui-id-5']]
+2023-05-16 15:05:327 INFO  HomePage :91 - MouseHover on bottoms Menu [[ChromeDriver: chrome on WINDOWS (1565954e9d076ab8a40bd3ab44fb53ca)] -> link text: Bottoms]
+2023-05-16 15:05:550 INFO  HomePage :97 - Clicking on pant link [[ChromeDriver: chrome on WINDOWS (1565954e9d076ab8a40bd3ab44fb53ca)] -> xpath: //a[@id='ui-id-23']//span[contains(text(),'Pants')]]
+2023-05-16 15:05:917 INFO  HomePage :74 - MouseHover on Gear Menu [[ChromeDriver: chrome on WINDOWS (2772c52c2f6791eb900f237383bd4f9b)] -> xpath: //span[normalize-space()='Gear']]
+2023-05-16 15:05:203 INFO  HomePage :79 - Clicking on bag link [[ChromeDriver: chrome on WINDOWS (2772c52c2f6791eb900f237383bd4f9b)] -> xpath: //span[contains(text(),'Bags')]]
+2023-05-16 15:05:405 INFO  HomePage :74 - MouseHover on Gear Menu [[ChromeDriver: chrome on WINDOWS (cd83519edc813954b75fce9590a4ea11)] -> xpath: //span[normalize-space()='Gear']]
+2023-05-16 15:05:688 INFO  HomePage :79 - Clicking on bag link [[ChromeDriver: chrome on WINDOWS (cd83519edc813954b75fce9590a4ea11)] -> xpath: (//span[normalize-space()='Bags'])[1]]
+2023-05-16 15:05:613 INFO  HomePage :74 - MouseHover on Gear Menu [[ChromeDriver: chrome on WINDOWS (cfa49a24eb422ebb5ba48b932a93b07d)] -> xpath: //span[normalize-space()='Gear']]
+2023-05-16 15:05:818 INFO  HomePage :79 - Clicking on bag link [[ChromeDriver: chrome on WINDOWS (cfa49a24eb422ebb5ba48b932a93b07d)] -> xpath: /html/body/div[1]/div/div/div[2]/nav/ul/li[4]/ul/li[1]/a/span]
